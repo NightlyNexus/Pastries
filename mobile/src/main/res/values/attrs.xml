@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="toolbar_ToolbarLayout">
+    <attr format="boolean" name="toolbar_extendToInsets"/>
+  </declare-styleable>
+
+  <style name="DefaultToolbarLayout">
+    <item name="toolbar_extendToInsets">false</item>
+  </style>
+</resources>

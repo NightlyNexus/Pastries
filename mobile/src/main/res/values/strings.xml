@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="label_application">Pastries</string>
+  <string name="label_activity">@string/label_application</string>
+  <string name="navigation_up_content_description">Go up</string>
+  <string name="menu_item">Trdelníks</string>
+  <string name="title_loading">Loading Pastries</string>
+  <string name="title_list">Pastries List</string>
+</resources>
